@@ -5,14 +5,14 @@ I’m a passionate **Front-End Developer** with a knack for creating visually st
 
 ## 💻 Technical Skills
 ### Front-End Technologies:
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks/Libraries**: React.js
+- **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript 
+- **Frameworks/Libraries**: React.js , Next.js
 - **Styling Tools**: Tailwind CSS, Bootstrap, Sass, Material-UI
 
 ### Tools & Platforms:
 - Git & GitHub
 - Visual Studio Code
-- Figma & Adobe XD (for UI/UX design)
+- 
 
 ### Other Skills:
 - Responsive Design
@@ -25,8 +25,8 @@ I’m looking to collaborate on:
 
 ## 📫 How to Reach Me
 - **Email**: changaniankur100@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/changani-ankur-07908830b/
-- **Portfolio**: https://my-portfolio-personal-web.netlify.app/
+- **LinkedIn**: https://www.linkedin.com/in/ankur-changani-3aaa38388/
+- **Portfolio**: ankur-changani-portfolio.netlify.app
 
 ## 😄 Pronouns
 He/Him
