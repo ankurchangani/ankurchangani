@@ -47,5 +47,6 @@ LinkedIn: linkedin.com/in/ankur-changani-3aaa38388
 Portfolio: ankur-changani-portfolio.netlify.app
 
 😄 Pronouns
+https://img.shields.io/jsdelivr/npm/hm/react
 
 He/Him
