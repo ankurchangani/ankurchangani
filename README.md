@@ -64,14 +64,7 @@ const ankur = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankurchangani&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurchangani&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="170" />
-
-</div>
 
 <div align="center">
 
