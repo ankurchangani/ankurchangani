@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Ankur%20Changani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descColor=e0e7ff" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankur--changani-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ankur-changani-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankur%20Changani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur-changani-3aaa38388)
@@ -45,7 +45,11 @@ const ankur = {
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
