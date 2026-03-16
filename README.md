@@ -64,14 +64,6 @@ const ankur = {
 
 ---
 
-
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ankurchangani&theme=tokyonight&border_radius=12)
-
-</div>
-
 ---
 
 ## 💞️ Let's Collaborate!
