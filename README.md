@@ -1,52 +1,114 @@
-👋 Hi, I’m Ankur Changani
-👀 About Me
+<div align="center">
 
-I’m a passionate Front-End Developer dedicated to building clean, responsive, and user-friendly web applications. I love transforming ideas into functional products using modern web technologies and best practices.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Ankur%20Changani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descColor=e0e7ff" />
 
-💻 Technical Skills
-🌐 Front-End Technologies
+[![Portfolio](https://img.shields.io/badge/Portfolio-ankur--changani-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ankur-changani-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankur%20Changani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur-changani-3aaa38388)
+[![Email](https://img.shields.io/badge/Email-changaniankur100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:changaniankur100@gmail.com)
 
-Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+</div>
 
-Frameworks & Libraries: React.js, Next.js
+---
 
-Styling: Tailwind CSS, Bootstrap, Sass, Material-UI
+## 👋 About Me
 
-⚙️ Tools & Platforms
+```ts
+const ankur = {
+  name: "Ankur Changani",
+  role: "Front-End Developer",
+  pronouns: "He / Him",
+  passion: "Transforming ideas into clean, responsive, and user-friendly web apps",
+  currentlyLearning: ["TypeScript", "Next.js App Router", "Performance Optimization"],
+  openToCollaborate: true,
+};
+```
 
-Git & GitHub
+> 💡 *I love turning complex ideas into elegant, functional products using modern web technologies.*
 
-Visual Studio Code
+---
 
-Firebase (basic integration)
+## 🛠️ Tech Stack
 
-🛠️ Other Skills
+### 🌐 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Responsive Web Design
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-Cross-Browser Compatibility
+### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-Performance Optimization
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-💞️ Collaboration
+---
 
-I’m open to collaborating on:
+## 🚀 What I Do
 
-Front-End Development projects
+| 🎯 Skill | 📝 Description |
+|---|---|
+| **Responsive Web Design** | Pixel-perfect layouts that look stunning on every device |
+| **Cross-Browser Compatibility** | Seamless experience across all modern browsers |
+| **Performance Optimization** | Fast-loading, efficient, production-ready applications |
+| **React & Next.js Apps** | Component-driven UIs with modern architecture |
 
-Responsive UI/UX-focused applications
+---
 
-React.js & Next.js projects
+## 📊 GitHub Stats
 
-📫 Let’s Connect
+<div align="center">
 
-Email: changaniankur100@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=ankurchangani&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurchangani&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="170" />
 
-LinkedIn: linkedin.com/in/ankur-changani-3aaa38388
+</div>
 
-Portfolio: ankur-changani-portfolio.netlify.app
+<div align="center">
 
-😄 Pronouns
-https://img.shields.io/jsdelivr/npm/hm/react
+![GitHub Streak](https://streak-stats.demolab.com?user=ankurchangani&theme=tokyonight&border_radius=12)
 
-He/Him
+</div>
+
+---
+
+## 💞️ Let's Collaborate!
+
+I'm open to working on:
+
+- 🖥️ **Front-End Development** projects
+- 📱 **Responsive UI/UX**-focused applications
+- ⚛️ **React.js & Next.js** projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 🌐 **Portfolio** | [ankur-changani-portfolio.netlify.app](https://ankur-changani-portfolio.netlify.app) |
+| 💼 **LinkedIn** | [linkedin.com/in/ankur-changani-3aaa38388](https://linkedin.com/in/ankur-changani-3aaa38388) |
+| 📧 **Email** | [changaniankur100@gmail.com](mailto:changaniankur100@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" />
+
+*Thanks for visiting! ⭐ Star some repos if you find them useful!*
+
+</div>
