@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Ankur%20Changani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descColor=e0e7ff" />
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankur--changani-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ankur-changani-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankur%20Changani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur-changani-3aaa38388)
